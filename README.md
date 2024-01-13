@@ -1,2 +1,2 @@
 # pwaWeatherApp
-A progressive weather app apllication
+A progressive web app weather apllication
